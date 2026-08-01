@@ -10,10 +10,10 @@ export default function Home() {
           Enterprise AI Powered Trading Platform
         </p>
 
-        <button className="mt-10 px-8 py-4 rounded-xl bg-blue-600 hover:bg-blue-700">
+        <button className="mt-10 rounded-xl bg-blue-600 px-8 py-4 hover:bg-blue-700">
           Coming Soon
         </button>
       </div>
     </main>
   );
-}t
+}
